@@ -2,8 +2,8 @@
 
 A backend service + live frontend for recording transactions, summarising user activity, and ranking users via a multi-factor composite score.
 
-**Live Frontend:** `https://<your-app>.vercel.app`  
-**Backend API:** `https://<your-app>.onrender.com`
+Live Frontend: https://txrank.vercel.app
+Backend API:  https://txrank.onrender.com
 
 ---
 
