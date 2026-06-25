@@ -4,6 +4,7 @@ A backend service + live frontend for recording transactions, summarising user a
 
 Live Frontend: https://txrank.vercel.app
 Backend API:  https://txrank.onrender.com
+video link:  https://www.loom.com/share/13ee678548874743b5c1be83502be09c
 
 ---
 
